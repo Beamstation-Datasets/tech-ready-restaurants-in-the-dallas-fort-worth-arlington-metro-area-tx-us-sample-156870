@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e28c524f-dd7a-4972-82e1-ca101cdc6be9",
+  "export_job_id": "6db452ba-7d81-4dcb-bb66-4a1fd37a8c3a",
   "id_short": 156870,
-  "published_at": "2026-04-10T19:19:46Z",
+  "published_at": "2026-04-19T07:19:47Z",
   "repo_name": "tech-ready-restaurants-in-the-dallas-fort-worth-arlington-metro-area-tx-us-sample-156870",
   "sample_asset_name": "beamstation_156870_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/156870/beamstation_156870_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "85b465ef2d5519e2c1ede281b39e4d0699c0062d0ace12e925d82d01952d6553",
-  "sample_size_bytes": 52048,
-  "total_records": 98
+  "sample_records": 7,
+  "sample_sha256": "c1dedf0da9e802018b36585bdfac047a7e0ebb8713e1c4c8f2504128492d954c",
+  "sample_size_bytes": 44362,
+  "total_records": 70
 }
