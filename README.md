@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Dallas-Fort Worth-Arlington Metro Area, TX, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `156870` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 98 records |
-| Free sample size | 9 records (9.18%) |
-| Last export | 2026-04-08T07:07:56.227920+00:00 |
+| Full dataset size | 70 records |
+| Free sample size | 7 records (10.0%) |
+| Last export | 2026-04-15T10:32:45.337485+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-dallas-fort-worth-arlington-metro-area-tx-us-sample-156870/releases/download/sample-latest/beamstation_156870_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
